@@ -1,2 +1,1 @@
-# PrepCourseHenryJuan
-Primeros Pasos Juan Sebastián Torres 
+Prueba de creacion de repositorio desde github
